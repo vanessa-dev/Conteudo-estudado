@@ -1,0 +1,14 @@
+pre code {
+  font-family: 'IBM Plex Mono',monospace;;
+  padding: 1rem;
+  line-height: 1.5;
+  display: block;
+}
+
+code {
+  border-radius: 3px;
+  background: #cccccc;
+  color: #000000;
+  padding: 3px;
+  display: inline-block;
+}
