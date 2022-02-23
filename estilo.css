@@ -5,3 +5,9 @@ p code {
   padding: 3px;
   display: inline-block;
 }
+
+.exemplo {
+  background: linear-gradient(rgba(0, 0, 0, 0.5) 70%,rgba(21, 168, 16, 0.74) 70%) , url("box-model.png");
+  height: 400px;
+  background-size: cover;
+}
