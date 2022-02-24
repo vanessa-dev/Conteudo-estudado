@@ -59,3 +59,24 @@ footer {
   width: 100%;
   top: 0;
 }
+
+@media (max-width: 500px) {
+  h1 {
+    background-color: #000000;
+    color: #fff;
+  }
+}
+
+@media (min-width: 600px) {
+  h1 {
+    background-color:blue;
+    color: #fff;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 900px) {
+  h1 {
+    background-color:greenyellow;
+    color: #fff;
+  }
+}
